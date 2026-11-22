@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+# only for the WRDS pull scripts
+wrds

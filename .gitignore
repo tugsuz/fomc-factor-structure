@@ -1,0 +1,11 @@
+# licensed data (WRDS: CRSP, TAQ, Compustat) is never committed
+data_wrds/
+# public data is downloaded by the scripts in code/
+data_public/*
+!data_public/fomc_meetings.csv
+!data_public/macro_release_days.csv
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
